@@ -1,0 +1,9 @@
+--Write a query to see a list of all employees working at Chrome & Burger.
+--Write a query to find all menu items that fall under the 'Burger' category.
+--Write a query to show all menu items, but list them from the most expensive to the least expensive.
+--Write a query to find the three cheapest items available on the menu.
+--Write a query to find all the ingredients supplied by 'Patty''s Premium Meats'.
+--Write a query to see all orders processed by the staff member with staff_id = 1
+--Write a query to find out how many orders each staff member has processed. Show the staff member's first name, last name, and their total order count.
+--Write a query to calculate the total revenue for each day of sales.
+--Write a query to find out which menu item has been ordered the most.
